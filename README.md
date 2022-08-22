@@ -1,6 +1,8 @@
 # function-approximating
 Welcome to use and give suggestions.
 
+本程序可以在Octave上运行
+
 程序以5次多项式为例拟合cos(x)，可以自行更改拟合函数、拟合区间和拟合多项式的次数。
 
 首先定义一组线性无关向量。（1,x,x^2,x^3,....,x^m）m为你想要拟合的多项式次数。
