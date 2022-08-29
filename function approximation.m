@@ -37,7 +37,7 @@ e5=eu5/ed5
 eu6=v6-int(v6*e1,d,u)*e1-int(v6*e2,d,u)*e2-int(v6*e3,d,u)*e3-int(v6*e4,d,u)*e4-int(v6*e5,d,u)*e5;
 ed6=sqrt(int(eu6^2,d,u));
 e6=eu6/ed6
-%计算正交补 Puv
+%计算正交补： Puv
 %原公式：Puv=int(v*e1,d,u)*e1+int(v*e2,d,u)*e2+
 %int(v*e3,d,u)*e3+int(v*e4,d,u)*e4+
 %int(v*e5,d,u)*e5+int(v*e6,d,u)*e6
