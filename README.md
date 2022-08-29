@@ -1,4 +1,4 @@
-# function-approximating
+# function-approximation
 Welcome to use and give suggestions.
 
 本程序可以在Octave上运行
